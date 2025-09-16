@@ -1,1 +1,2 @@
-The provided skeleton action recognition demo is offline, which means it takes a video clip as input and return the action detection. The demo runs on GPU. By default, this demo recognizes 120 actions categories defined in NTURGB+D 120.
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+For human skeleton extraction, we use Faster-RCNN (R50 backbone) for human detection and HRNet_w32 for human pose estimation. All based on OpenMMLab implementations.

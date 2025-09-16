@@ -1,0 +1,1 @@
+The provided skeleton action recognition demo is offline, which means it takes a video clip as input and return the action detection. The demo runs on GPU. By default, this demo recognizes 120 actions categories defined in NTURGB+D 120.
